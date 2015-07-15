@@ -11,7 +11,7 @@
 " bind russian keyboard
 
 " command mode bindings
-map ] `
+" map ] `
 map й q
 map ц w
 map у e
@@ -35,7 +35,7 @@ map л k
 map д l
 map ж ;
 map э '
-map ё \
+" map ё \
 map я z
 map ч x
 map с c
@@ -46,7 +46,7 @@ map ь m
 map б ,
 map ю .
 
-map [ ~
+"map [ ~
 map Й Q
 map Ц W
 map У E
@@ -70,7 +70,7 @@ map Л K
 map Д L
 map Ж :
 map Э "
-map Ё |
+" map Ё |
 map Я Z
 map Ч X
 map С C
