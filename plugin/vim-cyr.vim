@@ -68,7 +68,7 @@ map О J
 map Л K
 map Д L
 map Ж :
-map Э "
+map Э \"
 map Ё |
 map Я Z
 map Ч X
@@ -141,7 +141,7 @@ cmap О J
 cmap Л K
 cmap Д L
 cmap Ж :
-cmap Э "
+cmap Э \"
 cmap Ё |
 cmap Я Z
 cmap Ч X
@@ -214,7 +214,7 @@ vmap О J
 vmap Л K
 vmap Д L
 vmap Ж :
-vmap Э "
+vmap Э \"
 vmap Ё |
 vmap Я Z
 vmap Ч X
