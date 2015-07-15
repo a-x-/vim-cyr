@@ -1,3 +1,13 @@
+
+" short help:
+" :nmap - normal mode maps
+" :imap - insert mode maps
+" :vmap - visual and select mode maps
+" :smap - select mode maps
+" :xmap - visual mode maps
+" :cmap - command-line mode maps
+" :omap - operator pending mode maps
+
 " bind russian keyboard
 
 " command mode bindings
